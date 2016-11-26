@@ -1,5 +1,5 @@
 # stat-tests
-Repository containing codes for various statistical nonparametric hypothesis tests written in R.
+Repository containing codes for various statistical parametric and nonparametric hypothesis tests written in R.
 
 Tests Implemented:
 >
